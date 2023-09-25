@@ -11,3 +11,6 @@ You can never go below 0 steps.
 You have a 0.1% chance of slipping; if you do, you must start from step 0.
 
 You roll the die 100 times and bet with your friend that you can climb up to 60 steps. What are the chances of you winning the bet?
+
+
+Answer: 78.4% chance that he'll win the bet.
